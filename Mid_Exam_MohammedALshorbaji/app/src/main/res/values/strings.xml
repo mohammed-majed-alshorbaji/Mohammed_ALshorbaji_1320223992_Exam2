@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mid_Exam_MohammedALshorbaji</string>
+    <string name="mode_title">Mode</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="press_back_again">Press back again to exit</string>
+    <string name="set_mode">Set Mode</string>
+    <string name="light">Light</string>
+    <string name="night">Night</string>
+    <string name="system">System</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="tabs">Tabs</string>
+</resources>
